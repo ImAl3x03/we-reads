@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@component": [
+        "./src/Component/"
+      ],
+      "@component/*": [
+        "./src/Component/*"
+      ],
+      "@firebase": [
+        "./src/firebase/"
+      ],
+      "@firebase/*": [
+        "./src/firebase/*"
+      ],
+      "@model": [
+        "./src/model/"
+      ],
+      "@model/*": [
+        "./src/model/*"
+      ],
+      "@pages": [
+        "./src/Pages/"
+      ],
+      "@pages/*": [
+        "./src/Pages/*"
+      ],
+      "@store": [
+        "./src/Redux/"
+      ],
+      "@store/*": [
+        "./src/Redux/*"
+      ]
+    }
+  }
+}
